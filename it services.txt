@@ -68,6 +68,39 @@ General Management Practices
 *Relationship management
 *Supplier management
 
+Service Management Practices
+*Availability Management
+*Business Analysis
+*Capacity and Performance Management
+*Change Enablement
+*Incident Management
+*IT Asset Management
+*Monitoring & Event management
+*Problem Management
+*Release Management - სისტემის ახალი სერვისებისა, პაკეტის წვდომადობის უზრუნველყოფა. (დაგეგმვა, დამუშავება-ტესტ, დანერგვა, გადამოწმება)
+*Service Catalogue Management - ერთიანი წყარო სადაც შეკრებილია ინფორმაცია ყველა სერვისის შესახებ რომელიც წვდომადია მხარეებისთვის.
+*Service Configuration Management - სრული და მართებული ინფორმაციის უზრუნველყოფა სერვისების კონფიგურაციების შესახებ.
+*Service Continuity Management - სერვისის წვდომადობისა და წარმადობის დამაკმაყოფილებელ დონეზე შენარჩუნება „დიზასტერის“ შემთხვევაში.
+*Service Design -  სერვისების შექმნა და არსებულის დახვეწა (პერმანენტული პროცესი)(ჰოლისტიკური ხედვა)
+*Service Desk - მომსახურებაზე და ინციდენტის გადაწყვეტაზე მოთხოვნების მიღება/დაფიქსირება. 
+*Service level management - შეთანხმება, რომელშიც განსაზღვრულია როგორც მოთხოვნილი სერვისები ასევე მოსალოდნელი სერვისის დონე (ხარისხი).
+*Service Request management - მოითხოვო რაიმე დამატებითი სერვისი. (არ განიხილება ინციდენტი) უნდა იყოს ავტომატური, მოლოდინების გამართლება.
+*Service Validation and testing - დანერგვა არ გამოიწვევს დამატებითი ინციდენტების წარმოქმნას. (ტესტირების დაგეგმვა, გაშვება, რეპორტი)
+
+Technical Management Practices
+*Deployment Management - ახალი სოფტის დანერგვა. (Big Bang- დიდი სტეპები, Pull - ნელნელა) სასურველია გაკონტროლდეს ვერსიების თანაარსებობის საკითხი.
+*Infrastructure Management - მოიცავს ფიზიკური და ვირტუალური IT ინფრასტრუქტურის მონიტორინგს.
+*Software Management - სოფტის დაინტერესებულ მხარეთა საჭიროებებთან თანხვედრის გარანტირება.(არქიტექტურა, დიზაინი, დეველოპმენტი, ტესტირება, ვერსიები)
+
+
+
+
+
+
+
+
+
+
 
 
 
